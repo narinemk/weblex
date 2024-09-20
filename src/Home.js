@@ -16,7 +16,7 @@ function Home(props) {
               <div className="home-container-content-right">
                 <p className="earn-more">Зарабатывайте больше
                   <br/>
-                  <span> с WELBEX </span></p>
+                  <span> с WELBEX WELBEX</span></p>
                 <p className="sale-control">
                                     Развиваем и контролируем продажи за вас</p>
               </div>
